@@ -1,13 +1,11 @@
 {
   "name": "ctfbot",
-  "version": "2.0.0",
+  "version": "1.0.0",
   "description": "CTF Bot for Telegram",
   "main": "index.js",
   "dependencies": {
     "lodash": "^3.10.1",
-    "mongodb": "^3.0.5",
     "mongoose": "^4.1.1",
-    "node-telegram-bot-api": "^0.30.0",
     "prompt": "^0.2.14",
     "telegram-bot-api": "^0.3.2",
     "winston": "^1.0.1",
@@ -16,13 +14,5 @@
   "devDependencies": {},
   "scripts": {},
   "author": "José Ignacio Rojo <jirojo2@gmail.com>",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/leobraga96/ctftestebot.git"
-  },
-  "bugs": {
-    "url": "https://github.com/leobraga96/ctftestebot/issues"
-  },
-  "homepage": "https://github.com/leobraga96/ctftestebot#readme"
+  "license": "MIT"
 }
